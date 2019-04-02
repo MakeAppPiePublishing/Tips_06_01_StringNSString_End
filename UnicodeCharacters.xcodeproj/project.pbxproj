@@ -22,6 +22,7 @@
 		E11AF9E321E573A500D5E6E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E11AF9E621E573A500D5E6E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E11AF9E821E573A500D5E6E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E12A455E225396B100011068 /* String extension.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "String extension.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 		E11AF9DB21E5739F00D5E6E6 /* UnicodeCharacters */ = {
 			isa = PBXGroup;
 			children = (
+				E12A455E225396B100011068 /* String extension.playground */,
 				E11AF9DC21E5739F00D5E6E6 /* AppDelegate.swift */,
 				E11AF9DE21E573A000D5E6E6 /* ViewController.swift */,
 				E11AF9E021E573A000D5E6E6 /* Main.storyboard */,
